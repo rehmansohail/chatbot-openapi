@@ -1,7 +1,7 @@
 import openai
 import gradio
 
-openai.api_key = "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"
+openai.api_key = "" #use your own openai api key here
 
 messages = [{"role": "system", "content": "You are a psychologist"}]
 
